@@ -1,0 +1,6 @@
+name: tetris
+description: A savestate job system
+version: 1.0.0
+homepage: https://github.com/ArcaneArts/tetris
+environment:
+  sdk: '>=2.18.5 <3.0.0'
